@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Detroit Aesthetic Club</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Cocktails from Establishments in Ann Arbor, Detroit, and Beyond</description>
+	<lastBuildDate>Fri, 15 Dec 2023 20:13:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Manhattan at Seva</title>
+		<link>/2023/12/15/manhattan-at-seva/</link>
+					<comments>/2023/12/15/manhattan-at-seva/#respond</comments>
+		
+		<dc:creator><![CDATA[sedward5]]></dc:creator>
+		<pubDate>Fri, 15 Dec 2023 20:13:14 +0000</pubDate>
+				<category><![CDATA[Cocktail]]></category>
+		<category><![CDATA[ann arbor]]></category>
+		<category><![CDATA[sevas]]></category>
+		<guid isPermaLink="false">/?p=57</guid>
+
+					<description><![CDATA[Seva is a lesser known restaurant on the west side of Ann Arbor. Specializing in vegetarian and vegan fare, and tucked away in the westgate shopping center, you may not have heard of it, especially if you&#8217;re a carnivore. Which I am. That said, their kitchen does amazing things with the food they create and&#8230;&#160;<a href="/2023/12/15/manhattan-at-seva/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Manhattan at Seva</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p><a href="https://sevarestaurant.com/" data-type="link" data-id="https://sevarestaurant.com/">Seva</a> is a lesser known restaurant on the west side of Ann Arbor. Specializing in vegetarian and vegan fare, and tucked away in the westgate shopping center, you may not have heard of it, especially if you&#8217;re a carnivore. Which I am. That said, their kitchen does amazing things with the food they create and their appetizers menu could be your whole meal. Seva also has a full bar, and a menu of 10-12 cocktails that changes fairly regularly.</p>
+
+
+
+<p>One of my favorite cocktails, and one I often <a href="https://www.sedward5.com/the-manhattan-my-way-a-toast-to-tradition/" data-type="link" data-id="https://www.sedward5.com/the-manhattan-my-way-a-toast-to-tradition/">make at home</a>. This 19th century cocktail from the New York club that shares its name, is a platform for experimentation. While it&#8217;s recipe seems simple at the surface, small tweaks can make it a dramatically different drink.</p>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Manhattan</p><cite>Bulleit bourbon and Carpano Antica vermouth stirred with Angostura bitters, on ice, with a Luxardo cherry  14</cite></blockquote></figure>
+
+
+
+<p>This drink is close to the one I make at home. Carpano Antica absolutely brings this drink together. It&#8217;s subtle vanilla notes take the drink in a slightly sweeter, and less bitter Manhattan than you might otherwise experience. Bulleit bourbon is a fantastic base spirit to build this on. This all comes together with a large ice cube in a no-nonsense rocks glass and a Luxardo cherry, which flavors the drink with its syrup, even if you choose not to eat the garnish itself.</p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="968" height="1024" src="/wp-content/uploads/2023/12/IMG_0093-968x1024.jpeg" alt="" class="wp-image-61" srcset="/wp-content/uploads/2023/12/IMG_0093-968x1024.jpeg 968w, /wp-content/uploads/2023/12/IMG_0093-284x300.jpeg 284w, /wp-content/uploads/2023/12/IMG_0093-768x812.jpeg 768w, /wp-content/uploads/2023/12/IMG_0093-1452x1536.jpeg 1452w, /wp-content/uploads/2023/12/IMG_0093-1936x2048.jpeg 1936w" sizes="(max-width: 968px) 100vw, 968px" /></figure>
+
+
+
+<p>This drink hits the stop that I want a manhattan to hit. Boozy, slightly sweet, complex, and timeless. At first look fourteen dollars seems like a bit high for this drink, but held alongside Manhattans from Sava&#8217;s, Raven Club, The Last Word, and The Gandy Dancer, this price seems to be the going rate, and the Manhattan at Seva&#8217;s definitely holds its own amongst the contenders from those better know cocktail establishments.</p>
+
+
+
+<p>The next time you&#8217;re looking for a quality cocktail on the west side, or if you&#8217;re taking a vegan friend out for drinks you should absolutely stop by Seva&#8217;s.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/15/manhattan-at-seva/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2023/12/11/hello-world/</link>
+					<comments>/2023/12/11/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[sedward5]]></dc:creator>
+		<pubDate>Mon, 11 Dec 2023 16:25:11 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2023/12/11/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
