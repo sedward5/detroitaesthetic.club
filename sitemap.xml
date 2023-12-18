@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.detroitaesthetic.club/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://www.detroitaesthetic.club/post-sitemap.xml</loc>
 		<lastmod>2023-12-16T00:20:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://www.detroitaesthetic.club/page-sitemap.xml</loc>
 		<lastmod>2023-12-15T21:45:23+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://www.detroitaesthetic.club/category-sitemap.xml</loc>
 		<lastmod>2023-12-16T00:20:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/post_tag-sitemap.xml</loc>
+		<loc>https://www.detroitaesthetic.club/post_tag-sitemap.xml</loc>
 		<lastmod>2023-12-16T00:20:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/author-sitemap.xml</loc>
+		<loc>https://www.detroitaesthetic.club/author-sitemap.xml</loc>
 		<lastmod>2023-12-16T00:12:34+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

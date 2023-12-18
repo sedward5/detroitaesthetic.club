@@ -1,87 +1,87 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://www.detroitaesthetic.club/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://www.detroitaesthetic.club/</loc>
 		<lastmod>2023-12-15T21:45:23+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/DALL%C2%B7E-2023-12-11-13.08.38-Create-an-image-to-replace-the-default-mountain-range-header-in-the-Neve-WordPress-theme-suitable-for-the-Detroit-Aesthetic-Club-blog.-The-image-sh.png</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/uploads/2023/12/DALL%C2%B7E-2023-12-11-13.08.38-Create-an-image-to-replace-the-default-mountain-range-header-in-the-Neve-WordPress-theme-suitable-for-the-Detroit-Aesthetic-Club-blog.-The-image-sh.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-02.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-02.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-01.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-01.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/drew-beamer-bTN-zKFy9uA-unsplash-edited-scaled.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/uploads/2023/12/drew-beamer-bTN-zKFy9uA-unsplash-edited-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/brad-switzer-T6UiaO8W64k-unsplash-edited.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/uploads/2023/12/brad-switzer-T6UiaO8W64k-unsplash-edited.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/card-03.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/card-03.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/card-02.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/card-02.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/card-01.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/card-01.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/team-03.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/team-03.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/team-01.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/team-01.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/team-02.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/team-02.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>https://www.detroitaesthetic.club/contact/</loc>
 		<lastmod>2023-12-11T17:52:44+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-05.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-05.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-06.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-06.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-04.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-04.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/map.png</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/map.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/about/</loc>
+		<loc>https://www.detroitaesthetic.club/about/</loc>
 		<lastmod>2023-12-15T16:23:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/card-06.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/card-06.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/card-02.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/card-02.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/icon-03.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/team-01.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/team-01.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/team-02.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/team-02.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/themes/neve/assets/img/starter-content/team-03.jpg</image:loc>
+			<image:loc>https://www.detroitaesthetic.club/wp-content/themes/neve/assets/img/starter-content/team-03.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
